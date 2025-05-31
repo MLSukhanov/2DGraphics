@@ -1,0 +1,3 @@
+task4_without_patches.ipynb - без наложения патчей, точность гораздо лучше
+
+task4_with_patches.ipynb - с наложением патчей, что-то странное...
